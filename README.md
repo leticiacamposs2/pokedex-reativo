@@ -13,4 +13,4 @@ Criando o Controller com os métodos GET e POST | [Classes controllers dos méto
 Criando os métodos PUT e DELETE | [Edição e removação dos pokemons](https://github.com/leticiacamposs2/pokedex-reativo/issues/5)
 Aplicando Testes Unitários e criando um Stream de Eventos | [Testes unitários e stream](https://github.com/leticiacamposs2/pokedex-reativo/issues/6)
 Testes locais de Endpoint usando Postman | [Testando a requisição da API](https://github.com/leticiacamposs2/pokedex-reativo/issues/7)
-
+Deploy de uma aplicação Spring na AWS EC2 de modo fácil! | [Deploy da aplicação no AWS](https://github.com/leticiacamposs2/pokedex-reativo/issues/8)
