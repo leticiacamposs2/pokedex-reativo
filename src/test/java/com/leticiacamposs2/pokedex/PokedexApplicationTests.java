@@ -1,10 +1,10 @@
-package com.leticiacamposs2.podedex;
+package com.leticiacamposs2.pokedex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PodedexApplicationTests {
+class PokedexApplicationTests {
 
 	@Test
 	void contextLoads() {
