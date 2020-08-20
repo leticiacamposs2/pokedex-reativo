@@ -2,7 +2,7 @@
 🔥 Sistema de gerenciamento de Pokémons
 
 ## Bem vindxs!
-A ideia desse repositorio é não somente compartilhar o código construido durante as aulas do minicurso do canal da @anabneri e sim documentar os conceitos aprendidos ao longo dessa jornada através de issues e contar com a ajuda de vocês para evoluir ainda mais nesses conceitos, então sintam-se a vontade para comentar e compartilhar dicas nesse projeto, os links estão aqui:
+A ideia desse repositorio é não somente compartilhar o código construido durante as aulas do minicurso do canal da @anabneri e também documentar os conceitos aprendidos ao longo dessa jornada através de issues:
 
 Aula   | Conceitos aprendidos
 --------- | ------
