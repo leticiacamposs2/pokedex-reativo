@@ -23,7 +23,7 @@ Esta aplicação permite o acesso aos seguintes recursos:
 Método | endpoint | retorno
 --------- | ------  | ------
 GET | /pokemons | lista de todos os pokemons cadastrados
-GET | /pokemons/{id} | lista os dados do pokemom especifico do id
+GET | /pokemons/{id} | lista os dados do pokemon especifico do id
 POST | /pokemons | salva um pokemon
 DELETE| /pokemons/{id} | deleta o pokemon especifico do id
 DELETE| /pokemons/events | lista todos os eventos a cada 5 segundos podendo abrir varias abas
