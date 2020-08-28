@@ -14,3 +14,16 @@ Criando os métodos PUT e DELETE | [Edição e removação dos pokemons](https:/
 Aplicando Testes Unitários e criando um Stream de Eventos | [Testes unitários e stream](https://github.com/leticiacamposs2/pokedex-reativo/issues/6)
 Testes locais de Endpoint usando Postman | [Testando a requisição da API](https://github.com/leticiacamposs2/pokedex-reativo/issues/7)
 Deploy de uma aplicação Spring na AWS EC2 de modo fácil! | [Deploy da aplicação no AWS](https://github.com/leticiacamposs2/pokedex-reativo/issues/8)
+
+---
+
+## 🚀 API REST
+Esta aplicação permite o acesso aos seguintes recursos:
+
+Método | endpoint | retorno
+--------- | ------  | ------
+GET | /pokemons | lista de todos os pokemons cadastrados
+GET | /pokemons/{id} | lista os dados do pokemom especifico do id
+POST | /pokemons | salva um pokemon
+DELETE| /pokemons/{id} | deleta o pokemon especifico do id
+DELETE| /pokemons/events | lista todos os eventos a cada 5 segundos podendo abrir varias abas
